@@ -3,7 +3,7 @@ package cs518.sample.usecontactcontentprovidercursorloader2;
  * This is the base code from UseContactContentProvider
  * It has been modified 
  * 1. to use  a Loader and the associated lifecycle methods
- * 2. to use a notification of progress
+ * 2. to use a notification of progress in the Action Bar
  * 
  * Original code: 
  * Uses the Contacts Content Provider 

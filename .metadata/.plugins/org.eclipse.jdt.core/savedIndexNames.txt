@@ -1,5 +1,0 @@
-INDEX VERSION 1.127+/home/tricia/week11-contentprovider/.metadata/.plugins/org.eclipse.jdt.core
-3030734264.index
-362552881.index
-4254206832.index
-3395785766.index
