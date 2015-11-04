@@ -126,7 +126,7 @@ implements LoaderManager.LoaderCallbacks<Cursor> {
 		while (cursor.moveToNext()) {
 			String displayName = cursor.getString(cursor
 					.getColumnIndex(ContactsContract.Data.DISPLAY_NAME));
-			tView.append("Name: ");
+			tView.append("\nName: ");
 			tView.append(displayName);
 			// get phone numbers for this contact
 			String contactId =

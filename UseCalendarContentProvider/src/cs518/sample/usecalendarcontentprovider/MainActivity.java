@@ -18,7 +18,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.CalendarContract.Calendars;
 import android.widget.TextView;
-import cs518.sample.usecontactcontentprovider.R;
 
 public class MainActivity extends Activity {
 
